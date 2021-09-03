@@ -12,16 +12,20 @@ Axios, cheerio ve express kütüphanelerini kullandım. Node.js kullanma sebebim
 
 ## Uygulamanın işleyiş aşamaları aşağıdaki gibidir:
 
-•	Senaryoları çekebilmek için parametreler alınır.
-•	Alınan parametreler url linkine eklenir
-•	Gereken veriler axios ve cheerio kütüphaneleri ile gerekli tagler kullanılarak çekilir.
-•	Alınan veriler express.js kütüphanesi kullanılarak localhosttan servis edilir.
 
-•	Tüm filmlerin çekilmesi için imsbd/allscrips.html adresine gidilir
-•	Gereken veriler axios ve cheerio kütüphaneleri ile gerekli tagler kullanılarak çekilir.
-•	Alınan veriler express.js kütüphanesi kullanılarak localhosttan servis edilir.
+<ul>
+  <li>Senaryoları çekebilmek için parametreler alınır.</li>
+  <li>Alınan parametreler url linkine eklenir</li>
+  <li>Gereken veriler axios ve cheerio kütüphaneleri ile gerekli tagler kullanılarak çekilir.</li>
+  <li>Alınan veriler express.js kütüphanesi kullanılarak localhosttan servis edilir.</li>
+  <li>Tüm filmlerin çekilmesi için imsbd/allscrips.html adresine gidilir</li>
+  <li>Gereken veriler axios ve cheerio kütüphaneleri ile gerekli tagler kullanılarak çekilir.</li>
+  <li>Alınan veriler express.js kütüphanesi kullanılarak localhosttan servis edilir.</li>
+  <li>Film Türlerini çekebilmek için parametreler alınır.</li>
+  <li>Alınan parametreler url linkine eklenir</li>
+  <li>Gereken veriler axios ve cheerio kütüphaneleri ile gerekli tagler kullanılarak çekilir.</li>
+  <li>Alınan veriler express.js kütüphanesi kullanılarak localhosttan servis edilir.</li>
+  <li></li>
 
-•	Film Türlerini çekebilmek için parametreler alınır.
-•	Alınan parametreler url linkine eklenir
-•	Gereken veriler axios ve cheerio kütüphaneleri ile gerekli tagler kullanılarak çekilir.
-•	Alınan veriler express.js kütüphanesi kullanılarak localhosttan servis edilir.
+</ul>
+
