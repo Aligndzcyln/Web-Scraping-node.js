@@ -25,7 +25,5 @@ Axios, cheerio ve express kütüphanelerini kullandım. Node.js kullanma sebebim
   <li>Alınan parametreler url linkine eklenir</li>
   <li>Gereken veriler axios ve cheerio kütüphaneleri ile gerekli tagler kullanılarak çekilir.</li>
   <li>Alınan veriler express.js kütüphanesi kullanılarak localhosttan servis edilir.</li>
-  <li></li>
-
 </ul>
 
